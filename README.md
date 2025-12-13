@@ -58,6 +58,9 @@ Examine possible trends or correlations between fuel price fluctuations and week
 - Identification of top-performing and lowest-performing stores
 - Understanding consumer behaviour changes across different weeks
 
+ ** Data Source** 
+ https://www.kaggle.com/datasets/yasserh/walmart-dataset
+ 
 **📈 Summary**
 
 This analysis breaks down weekly performance and external influences in Walmart stores. By combining SQL, Excel, and Power BI, the project highlights how economic factors, holidays, and location characteristics influence sales patterns. These insights help in understanding performance drivers and forecasting future sales behaviour.
