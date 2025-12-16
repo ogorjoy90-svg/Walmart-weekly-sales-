@@ -51,7 +51,7 @@ This project analyses Walmart's sales data on both a **monthly and weekly basis*
 ![External factors and correlation](W2.png)  
 *Effect of external factors on sales.*
 
-![Top Stores](images/top_stores.png)  
+![Store perfomances and insights](images/top_stores.png)  
 *Stores with highest weekly sales.*
 
 ---
