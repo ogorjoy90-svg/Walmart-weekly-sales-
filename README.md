@@ -48,8 +48,8 @@ This project analyses Walmart's sales data on both a **monthly and weekly basis*
 ![Overview and key metrics](w1.png)  
 *Monthly sales trends across all stores.*
 
-![Weekly Sales Trend](images/weekly_sales.png)  
-*Weekly sales trend analysis.*
+![External factors and correlation](W2.png)  
+*Effect of external factors on sales.*
 
 ![Top Stores](images/top_stores.png)  
 *Stores with highest weekly sales.*
