@@ -1,66 +1,90 @@
 # Walmart-weekly-sales-
-**Walmart Sales Dataset Analysis**
+# Walmart Monthly & Weekly Sales Analysis
 
-This document outlines the key business and analytical questions explored using the **Walmart weekly sales dataset**. The analysis was completed using **Excel**, **SQLite**, and **Power BI** to uncover trends, correlations, and factors affecting weekly sales across different stores.
+![GitHub Stats](https://gh-readme-stats.vercel.app/api?username=ogorjoy90-svg)
 
-**📌 Key Analysis Questions**
+---
 
-- **Which week recorded the highest weekly sales?**
+### **Project Overview**
+This project analyses Walmart's sales data on both a **monthly and weekly basis** to uncover trends, seasonal patterns, and key performance drivers.  
 
-Identify the specific week and the corresponding sales value.
+**Dataset:** Weekly sales data for Walmart stores including factors like temperature, fuel price, CPI, and store type.  
 
-- **What is the average fuel price for the entire database?**
+**Goal:** Identify sales trends, peak periods, and store performance variations to support data-driven business decisions.
 
-Calculate the mean fuel price across all recorded weeks.
+---
 
-- **How many weeks had weekly sales below the overall average?**
+### **Tools & Technologies**
+- **Power BI** – Dashboard creation & visualisation  
+- **Excel / CSV** – Data cleaning and preparation  
+- **SQL** – Querying and aggregating data  
+- **Git & GitHub** – Version control and project hosting  
 
-Compare each week's sales to the calculated average weekly sales.
+---
 
-- **Which store recorded the highest single-week sales, and what was the amount?**
+### **Analysis Approach**
+1. **Data Cleaning & Preparation**  
+   - Checked for missing values, corrected inconsistencies  
+   - Standardized date formats for monthly & weekly aggregation  
 
-Determine the store with the maximum weekly sales figure.
+2. **Exploratory Data Analysis (EDA)**  
+   - Aggregated sales by week and month  
+   - Analysed trends, patterns, and anomalies  
+   - Created summary statistics  
 
-- **Which store had the highest total weekly sales?**
+3. **Visualisation**  
+   - Line charts for weekly and monthly sales trends  
+   - Bar charts for top performing stores  
+   - Heatmaps for seasonal sales patterns  
 
-Aggregate all weekly sales by store.
+4. **Error Correction & Validation**  
+   - Cross-checked calculations and charts  
+   - Corrected discrepancies found during visualisation  
+   - Iteratively refined dashboards  
 
-- **Which store had the lowest weekly sales?**
+---
 
-Identify the store with the smallest recorded weekly sales value.
+### **Visuals / Screenshots**
+*(Replace these placeholders with actual Power BI visuals)*
 
-- **How does CPI affect weekly sales?**
+![Monthly Sales Trend](images/monthly_sales.png)  
+*Monthly sales trends across all stores.*
 
-Investigate whether a higher Consumer Price Index correlates with changes in weekly sales.
+![Weekly Sales Trend](images/weekly_sales.png)  
+*Weekly sales trend analysis.*
 
-- **How does temperature affect weekly sales?**
+![Top Stores](images/top_stores.png)  
+*Stores with highest weekly sales.*
 
-Explore the relationship between store-region temperature and weekly performance.
+---
 
-- **Do sales increase during holidays compared to non-holidays?**
+### **Key Insights**
+- Certain months consistently show **peak sales**, particularly holiday seasons.  
+- Weekly sales fluctuate with external factors such as **fuel prices and CPI**.  
+- Identifying low-performing stores helped highlight areas for **operational improvement**.  
+- Seasonal patterns provide actionable insights for **inventory and promotions planning**.
 
-Compare average sales for holiday-flagged weeks vs. regular weeks.
+---
 
-- **How would a change in fuel price affect sales?**
+### **Impact / Learning**
+- Gained a deeper understanding of **how to aggregate and interpret data at multiple levels (weekly vs monthly)**.  
+- Learned the importance of **iterative validation** and error correction during analysis.  
+- Reinforced **storytelling with data**, creating dashboards that communicate insights clearly.  
 
-Examine possible trends or correlations between fuel price fluctuations and weekly sales.
+---
 
-**🧰 Tools Used**
+### **How to View / Run**
+1. Download the `.pbix` file from this repository.  
+2. Open in **Power BI Desktop** to interact with dashboards.  
+3. Explore weekly and monthly sales trends, top stores, and other metrics.  
 
-- **Excel** - Cleaning, sorting, exploratory analysis, and pivot tables
-- **SQLite** - SQL-based calculations, aggregation, and correlation checks
-- **Power BI** - Visualisation of store-wide trends and week-by-week comparisons
+---
 
-**🔍 Analysis Focus**
+### **Connect / Contact**
+- GitHub: [https://github.com/ogorjoy90-svg](https://github.com/ogorjoy90-svg)  
+- LinkedIn: [Joy Iheanyi-Ogor](https://www.linkedin.com/in/joy-iheanyi-ogor-689886268)  
 
-- Weekly sales trends across 45+ stores
-- Effects of external factors such as holidays, CPI, temperature, and fuel price
-- Identification of top-performing and lowest-performing stores
-- Understanding consumer behaviour changes across different weeks
+---
 
- ** Data Source** 
- https://www.kaggle.com/datasets/yasserh/walmart-dataset
- 
-**📈 Summary**
-
-This analysis breaks down weekly performance and external influences in Walmart stores. By combining SQL, Excel, and Power BI, the project highlights how economic factors, holidays, and location characteristics influence sales patterns. These insights help in understanding performance drivers and forecasting future sales behaviour.
+### **Hashtags / Skills**
+#DataAnalysis #PowerBI #BusinessIntelligence #SQL #DataVisualisation #RetailAnalytics
