@@ -45,9 +45,7 @@ This project analyses Walmart's sales data on both a **monthly and weekly basis*
 ---
 
 ### **Visuals / Screenshots**
-*(Replace these placeholders with actual Power BI visuals)*
-
-![Monthly Sales Trend](images/monthly_sales.png)  
+![Overview and key metrics](w1.png)  
 *Monthly sales trends across all stores.*
 
 ![Weekly Sales Trend](images/weekly_sales.png)  
